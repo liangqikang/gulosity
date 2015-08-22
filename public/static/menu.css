@@ -1,0 +1,46 @@
+#topbar{margin: 0 auto; width: 100%; height: 50px;line-height:50px; clear: both;background-color: #410000; position:fixed; top:0; left:0;right: 0}
+#topbar div{float:left; width:100px;padding-left: 5px; color: white; font-size: 18px; text-align: center; line-height: 50px}
+#topbar img{vertical-align: middle;}
+.tips,.foodlist{background-color:white;color:black;border:1px solid black;margin:5px 0 5px 0;}
+.tips{padding:15px 5px 15px 10px}
+.zhtitle{font-size: 16px}
+.dix{font-size: 12px}
+.foodlist{padding:0}
+.foodlist .row{clear:both; height:85px; line-height:82px;}
+.foodlist .row div {float: left;}
+.foodlist .last{border:0}
+.row img{vertical-align: middle}
+.foodname{padding-left:5px;width:90px;}
+.ename{font-size: 8px;line-height: 10px; width: 70px;overflow: auto}
+.mxe{width: 66px;}
+.tf{padding-top: 28px; height: 57px}
+.mx1{padding-top: 32px; height: 53px}
+.foodprice{padding-left:5px;line-height: 20px;width:83px; overflow: auto;font-size: 15px}
+.foodprice p{margin: 0}
+.yuan{width:40px; text-align: right; padding-right: 8px;line-height: 20px; font-size: 15px}
+#totalprice {margin: 0 auto;color: white;line-height:30px; padding:10px 10px 10px 10px; clear:both;width:100%;background-color:#410000; position:fixed; bottom:0; left:0;right:0;opacity: 0.9;}
+#totalprice div{float:left}
+#tprice{width:65%;padding-left: 20px}
+#next11{background-color:darkred;border:0;width:60px;height:30px;color: white;-webkit-border-radius:3px;-webkit-appearance: none;}
+.reduce{text-align: right;font-size:18px; display:none;-webkit-border-radius:13px; width: 26px; height: 26px; margin: 30px 0 0 0; background-color: red; color: white; font-weight: bold; text-align: center; vertical-align: middle; line-height: 24px}
+.count{margin-left: 8px; font-size:18px;-webkit-border-radius:3px; margin-top:30px;  border:1px solid #999999; background-color: #CCCCCC; width: 25px; height: 25px;line-height: 25px;text-align: center}
+.red{background-color: red; color: white; border: 1px solid red}
+.darkred{background-color: darkred; color: white;}
+hr{border-top:1px solid #a6a6a6; border-bottom:1px solid white; margin: 0; padding: 0;}
+.target{position: relative;top: -60px;display: block;height: 0;overflow: hidden;}
+.subtitle{margin-top:20px;font-size: 12px}
+.allplus{width: 278px; padding:0 10px; background-color:#ccc;color:black}
+.subrow{line-height:30px;width:100%;font-size: 12px; }
+.subrow{border-top:1px solid #a6a6a6;}
+.taste,.plus{margin-bottom:5px;clear:both}
+.srtitle{width:100px;text-align: left;margin-bottom: 5px}
+.taste-left{float:left;width: 60px; text-align: left;}
+.taste-right{float:right; width:200px;}
+.plus-left{float:left;width: 60px; text-align: left}
+.plus-right{float:right; width:210px;}
+.clear{clear: both;}
+.normal{border:1px solid #999999; height:20px; width:53px;overflow: hidden;text-align: center; background-color: #cccccc; padding:5px 0;line-height: 20px; padding: 0 5px; margin: 5px 5px 0 0; font-size: 10px;}
+.selected{background-image: url("../images/arr.png");background-repeat: no-repeat; background-position: right bottom; border:1px solid #cc0000; }
+.selectbox{margin-right:5px;}
+.spicyselect{width:65px;font-size: 10px; height:22px;}
+.meatselect{width:135px;font-size: 10px; height:22px;}

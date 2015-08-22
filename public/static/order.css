@@ -1,0 +1,52 @@
+#topbar{margin: 0 auto; width: 100%; color: white; height: 50px;line-height:50px; clear: both;background-color: #410000; position:fixed; top:0; left:0;right: 0}
+.foodlist{background-color:#e6e6e6;color:black;border:1px solid black;margin:5px 0 5px 0;}
+.tips{padding:15px 5px 15px 5px}
+.foodlist .row{clear:both; line-height:40px; padding-left:10px;}
+.foodlist .row div {float: left;}
+.row br{margin: 0;padding:0;}
+.foodlist .noodles{padding:6px 0; line-height: 14px}
+.foodlist .last{border:0}
+.foodname{width:154px; overflow: hidden;}
+.pluss{font-size: 10px; line-height: 5px}
+.foodprice{padding-left:10px;width: 26px;margin: 0 5px; color: red; }
+.subtitle{margin: 10px 0}
+#topbar div{float:left}
+.goback{width:68%; margin: 0 20px;}
+.topbtn{background-color:darkred;border:0;width:60px;height:30px;color: white;-webkit-border-radius:3px;-webkit-appearance: none;}
+.addrbox{clear:both;color:black;-webkit-border-radius:8px;background-color:#e6e6e6;padding: 10px; height: 40px; margin-bottom: 10px}
+.addrcontent{float:left;width: 94%; line-height: 20px}
+.newaddr{float:left; line-height: 40px; font-family: "simsun"}
+#paytype {clear: both; font-size: 14px}
+#paytype div{float:left;background-color:brown;color:white;border:1px solid black;width:80px;height:30px;line-height:30px;margin:10px 20px 10px 0;padding-left: 10px}
+#comment textarea{width:92%;border:1px solid black;color:black;-webkit-border-radius:8px;background-color:#e6e6e6;padding:10px;margin:10px 0 10px 0;}
+#fpc{width:99%;border:0;background-color: #e6e6e6}
+#totalprice{clear:both;border:1px solid black;color:red;-webkit-border-radius:8px;background-color:#e6e6e6;padding:10px;margin:10px 0 10px 0;}
+#totalprice span.feetitle{display:inline-block;float:left;width:140px}
+#totalprice span.feemark{display:inline-block;float:left;width:100px}
+#totalprice span.feenum{display:inline-block;float:right;}
+#totalprice .feerow{clear:both;height:30px;line-height:30px}
+#submitbtn{background-color:white;color:red;border:1px solid black;width:100%;height:60px;margin:10px 0;-webkit-border-radius:8px;-webkit-appearance: none;}
+.reduce,.increment{-webkit-border-radius:10px;font-size: 14px; width: 20px; height: 20px; margin: 10px 5px 0 5px; background-color: red; color: white; text-align: center; vertical-align: middle;  line-height: 18px}
+.reduce{font-weight: bold;line-height: 18px; font-size: 14px;}
+.increment{font-size: 24px;line-height: 20px}
+.count{-webkit-border-radius:3px; border:1px solid gray; background-color: gray; color: black; width: 20px; height: 20px;margin-top:10px;line-height: 20px;text-align: center}
+.gray{background-color: #cccccc; color: white; border: 1px solid #999999}
+.dtime{border: 1px solid gray; background-color: #e6e6e6;text-align: center;color: black;padding: 8px}
+#paytype div.selected{border:4px solid black; color: darkred; background-color: #e6e6e6;}
+.addrbox a:link{color: black;text-decoration: none;}
+.addrbox a:visited{color: black;text-decoration: none; font-weight: bold}
+hr{border-top:1px solid #a6a6a6; border-bottom:1px solid white; margin: 0; padding: 0}
+.clear{clear:both;}
+.editbar{width:100%; height: 20px; line-height: 20px;margin-bottom: 10px}
+.editbar .del{float:left;}
+.editbar .edit{float:right;}
+.selectedaddr{border:3px solid green;}
+#addoreditaddr #container div{margin-top:10px;}
+#addoreditaddr #addrfields input{font-size:14px;height:30px;border:1px solid black;color:black;background-color:white; width: 283px;padding-left: 8px;-webkit-border-radius:8px;-webkit-appearance: none;}
+#addoreditaddr #addrfields textarea{font-size:14px;height:60px;border:1px solid black;color:black;background-color:white; width: 289px;padding:8px 0 8px 8px;-webkit-border-radius:8px;-webkit-appearance: none;}
+#saveaddrbtn{background-color:white;color:red;font-size:15px; font-weight:bold;border:1px solid black;width:300px;height:38px;margin:10px 0;-webkit-border-radius:8px;-webkit-appearance: none;}
+.bottombar {margin: 0 auto;color: white;line-height:30px; padding:10px 10px 10px 10px; clear:both;width:100%;background-color:#410000; position:fixed; bottom:0; left:0;right:0;opacity: 0.9;}
+.bottombar div{float:right; margin-right: 20px}
+#newaddrbtn{background-color:darkred;border:0;width:100px;height:30px;color: white;-webkit-border-radius:3px;-webkit-appearance: none;}
+.allplus{list-style-type: circle;}
+.allplus li{float:left;margin-right:10px }

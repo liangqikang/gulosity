@@ -1,0 +1,13 @@
+body{font-family:"Microsoft Yahei","宋体","Tahoma",Arial;font-size:14px;color:black;background-color:darkred}
+#container{width:300px;margin-bottom:40px; padding:auto; margin: auto;}
+.subtitle{text-align: center;font-size: 20px;margin:20px; color: white}
+#btnrow{cursor: pointer; width: 100%; margin-bottom: 20px;clear: both;margin-top: 10px;}
+.moneyrow input{border-radius: 0; height: 40px; width: 280px;margin-top: 10px; border:1px solid #666666; padding-left: 10px; font-size: 14px;}
+label.error{color: white; margin: 5px 0 0 0; font-size: 14px}
+.btn{-webkit-appearance:none;font-size: 18px; font-weight: bold; letter-spacing:2px; line-height:60px;color:red; height: 60px;width: 100%;text-align: center;background-color: white;border: 1px solid gray; border-radius: 0}
+.forget{width: 100%;text-align: right; padding: 5px 0 0 0;color: white}
+.pay{float:left; font-size: 20px;font-weight: bold; letter-spacing:2px;line-height:60px;color:red; height: 60px;width: 73%;text-align: center;background-color: white;border: 1px solid #666666; -webkit-appearance:none;border-radius: 0}
+.recharge{float:left;font-size: 20px; letter-spacing:2px; line-height:58px; height: 58px;width:25%;text-align: center;background-color: #999999;color:white;border: 1px solid #666666;}
+#moneyrow input{border-radius: 0; height: 40px; width: 280px;margin-top: 10px; border: 1px solid #666666; padding-left: 6px; font-size: 16px;}
+#pwdrow input{height: 40px;border-radius: 0; width: 280px;margin-top: 10px; border: 1px solid #666666; padding-left: 6px; font-size: 16px;}
+label.error{color: white; margin: 5px 0 0 0; font-size: 14px}
